@@ -9,9 +9,9 @@
 ## USER GUIDES
 
 * [APR vs. APY](user-guides/apr-vs.-apy.md)
-* [Farming $Hero Token](user-guides/farming-usdhero-token/README.md)
-  * [Vesting/Staking/Locking Hero](user-guides/farming-usdhero-token/vesting-staking-locking-hero.md)
+* [Farming Hero Token](user-guides/farming-usdhero-token/README.md)
   * [Yield Farming \(Vaults\)](user-guides/farming-usdhero-token/yield-farming.md)
+  * [Vesting/Staking/Locking Hero](user-guides/farming-usdhero-token/vesting-staking-locking-hero.md)
   * [NFT Farming](user-guides/farming-usdhero-token/nft-farming.md)
 * [NFT](user-guides/buying-genesis-nft/README.md)
   * [NFT MarketPlace](user-guides/buying-genesis-nft/nft-marketplace.md)

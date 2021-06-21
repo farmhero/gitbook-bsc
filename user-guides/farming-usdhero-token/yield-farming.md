@@ -1,27 +1,31 @@
 # Yield Farming \(Vaults\)
 
+{% hint style="info" %}
+Freshly minted HERO is considered vested until the 90 day vesting duration expires or it is withdrawn from the fee distribution contract.
+{% endhint %}
+
 Users can deposit designated tokens to earn $HERO. Compared to other farms\(such as YFI\), the HERO farm will NOT lock the funds in vain. To make use of the locked funds so that the HERO protocol is a healthy, continuous one, the $Hero pool will be built upon farms that are audited and secure.
 
-Currently, the pools are built upon Pancake main farms.
+Currently, the pools are built upon QuickSwap main farms.
 
-| Pool | Farm | Multiple |
-| :--- | :--- | :--- |
-| HERO-USDC | QUICKSWAP | 100X |
-| HERO-MATIC | QUICKSWAP | 100X |
-| HERO-ETH | QUICKSWAP | 30X |
-| HERO-USDT | QUICKSWAP | 30X |
-| HERO-QUICK | QUICKSWAP | 20X |
-| bHero-USDC | QUICKSWAP | 10X |
-| bHero-Matic | QUICKSWAP | 10X |
-| Matic-ETH | QUICKSWAP | 10X |
-| MATIC-USDC | QUICKSWAP | 10X |
-| USDT-ETH  | QUICKSWAP | 10X |
-| DAI-ETH | QUICKSWAP | 10X |
-| MATIC-QUICK | QUICKSWAP | 8X |
-| USDC-QUICK | QUICKSWAP | 8X |
-| BTC-USDC | QUICKSWAP | 5X |
-| BTC-ETH | QUICKSWAP | 5X |
-| USDC-DAI | QUICKSWAP | 4X |
+| Pool | Farm | Multiple | Limited Time Depoist Fee |
+| :--- | :--- | :--- | :--- |
+| HERO-USDC | QUICKSWAP | 100X | NO |
+| HERO-MATIC | QUICKSWAP | 100X | NO |
+| HERO-ETH | QUICKSWAP | 30X | NO |
+| HERO-USDT | QUICKSWAP | 30X | NO |
+| HERO-QUICK | QUICKSWAP | 20X | NO |
+| bHero-USDC | QUICKSWAP | 10X | YES |
+| bHero-Matic | QUICKSWAP | 10X | YES |
+| Matic-ETH | QUICKSWAP | 10X | YES |
+| MATIC-USDC | QUICKSWAP | 10X | YES |
+| USDT-ETH  | QUICKSWAP | 10X | YES |
+| DAI-ETH | QUICKSWAP | 10X | YES |
+| MATIC-QUICK | QUICKSWAP | 8X | YES |
+| USDC-QUICK | QUICKSWAP | 8X | YES |
+| BTC-USDC | QUICKSWAP | 5X | YES |
+| BTC-ETH | QUICKSWAP | 5X | YES |
+| USDC-DAI | QUICKSWAP | 4X | YES |
 
 The actual pool constitutions and multiples are subject to change. Please stay updated with latest news in our group and the doc here.
 
@@ -31,9 +35,12 @@ There is an extra single token staking pool for $HERO, where you can earn $USDC 
 
 Users can freely deposit and withdraw tokens from pools anytime. But for certain pools within a limited time upon launch, there will be deposit fee. 
 
-
-
-
+|  | Deposit Fee |
+| :--- | :--- |
+| within 1 day \(24 hrs\) of Launch | 4% |
+| 1 day - 2 days | 3% |
+| 2 days - 3 days | 2% |
+| more than 3 days | 1% |
 
 There is a general early exit fee for the pools, depending on the deposit time. There is no entry fee.
 
