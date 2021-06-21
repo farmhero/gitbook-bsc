@@ -20,13 +20,11 @@ The pot funds will be partial $Quick generated from vaults. For more details, ch
 
 \(The updated game rules are revised to make the game fairer and alleviate the bot's interference of the games' fairness.\)
 
-Users can buy $Key using $Hero. They can purchase directly in the FarmHero App or on QuickSwap.
+Users can buy $Key using $HONOR. They can purchase directly in the FarmHero App or on QuickSwap.
 
 There is a countdown timer for each round. Initially the timer counts down from 24 hours.
 
-User can deposit $Key to _add time to_ the countdown timer. Any $Key deposit with amount bigger than 1 _will add 30 seconds to timer, to a hardcap of 24 hours._
-
-_Time is added per-key, rounded down, so 2.5 keys = 60 seconds._
+User can deposit $Key to _add time to_ the countdown timer. Any $Key deposit with amount bigger than 1 _will reset the timer back to 24 hours._
 
 _There is a max 1000 KEY per purchase to avoid whale front-run. This amount can be adjusted when the game is stable to make the purchase easier._
 

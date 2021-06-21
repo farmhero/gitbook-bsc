@@ -19,7 +19,6 @@
   * [Loot Box](user-guides/buying-genesis-nft/blind-box.md)
 * [The Auction Game](user-guides/the-auction-game.md)
 * [The Fomo Game](user-guides/the-fomo-game/README.md)
-  * [Game Rules \(old\)](user-guides/the-fomo-game/game-rules-old.md)
   * [Reweight](user-guides/the-fomo-game/reweight.md)
 * [Referrals](user-guides/referrals.md)
 
