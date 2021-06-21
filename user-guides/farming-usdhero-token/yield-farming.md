@@ -6,29 +6,36 @@ Currently, the pools are built upon Pancake main farms.
 
 | Pool | Farm | Multiple |
 | :--- | :--- | :--- |
-| Polygon Reserve | - | 20x |
-| HERO-BNB LP | Pancake | 8x |
-| HERO-BUSD LP | Pancake | 8x |
-| HERO | HERO | 8x |
-| BTCB-BNB LP | Pancake | 2x |
-| BTCB-BUSD LP | Pancake | 4x |
-| ETH-BNB LP | Pancake | 2x |
-| BUSD-BNB LP | Pancake | 4x |
-| USDT-BNB LP | Pancake | 4x |
-| CAKE-BNB LP | Pancake | 4x |
-| UNI-BNB LP | Pancake | 2x |
-| DOT-BNB LP | Pancake | 2x |
-| USDT-BUSD LP | Pancake | 1x |
-| DAI-BUSD LP | Pancake | 1x |
-| USDC-BUSD LP | Pancake | 1x |
+| HERO-USDC | QUICKSWAP | 100X |
+| HERO-MATIC | QUICKSWAP | 100X |
+| HERO-ETH | QUICKSWAP | 30X |
+| HERO-USDT | QUICKSWAP | 30X |
+| HERO-QUICK | QUICKSWAP | 20X |
+| bHero-USDC | QUICKSWAP | 10X |
+| bHero-Matic | QUICKSWAP | 10X |
+| Matic-ETH | QUICKSWAP | 10X |
+| MATIC-USDC | QUICKSWAP | 10X |
+| USDT-ETH  | QUICKSWAP | 10X |
+| DAI-ETH | QUICKSWAP | 10X |
+| MATIC-QUICK | QUICKSWAP | 8X |
+| USDC-QUICK | QUICKSWAP | 8X |
+| BTC-USDC | QUICKSWAP | 5X |
+| BTC-ETH | QUICKSWAP | 5X |
+| USDC-DAI | QUICKSWAP | 4X |
 
 The actual pool constitutions and multiples are subject to change. Please stay updated with latest news in our group and the doc here.
 
-There is an extra single token staking pool for $HERO, where you can earn $BUSD. The rewards come from Vault Farming.
+There is an extra single token staking pool for $HERO, where you can earn $USDC + $HERO. The rewards come from Vault Farming.
 
 ## Deposit and Withdrawal
 
-Users can freely deposit and withdraw tokens from pools anytime. But there is an early exit fee for the pools, depending on the deposit time. There is no entry fee.
+Users can freely deposit and withdraw tokens from pools anytime. But for certain pools within a limited time upon launch, there will be deposit fee. 
+
+
+
+
+
+There is a general early exit fee for the pools, depending on the deposit time. There is no entry fee.
 
 | Deposit Time | Early Exit Fee |
 | :--- | :--- |
