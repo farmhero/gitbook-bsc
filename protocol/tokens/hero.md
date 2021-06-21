@@ -4,9 +4,9 @@ $HONOR token is the governance token of the FarmHero protocol.
 
 $HONOR token mints at a speed of 33.333 per second. The initial daily production rate is 2,880,000 $HONOR per day.
 
-The production speed will decrease by 10% every 7 days, for 21 times. After that, $HONOR token will keep the speed. The first year will produce 255521677 $HONOR token, after that, each year will produce 127,451,238 $HONOR token.
+The production speed will decrease by 30% in 7 days, after that, decrease 10% every 7 days, for 20 times. After that, $HONOR token will keep the speed. The first year will produce 203219082.8 $HONOR token, after that, each year will produce 99128741.09 $HONOR token.
 
-![](../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image%20%281%29.png)
 
 ## Deflationary Design via in-house Games
 
