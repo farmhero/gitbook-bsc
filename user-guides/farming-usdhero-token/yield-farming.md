@@ -21,7 +21,7 @@ Currently, the pools are built upon QuickSwap main farms.
 | BTC-USDC | QUICKSWAP | 10X | YES |
 | BTC-ETH | QUICKSWAP | 10X | YES |
 | USDC-USDT | QUICKSWAP | 5X | YES |
-| Hero-USDC | QUICKSWAP | 5X | YES |
+| Hero-USDC | QUICKSWAP | 5X | YES, but with 50% discount |
 
 The actual pool constitutions and multiples are subject to change. Please stay updated with latest news in our group and the doc here.
 
