@@ -1,7 +1,7 @@
 # Yield Farming \(Vaults\)
 
 {% hint style="info" %}
-Freshly minted HERO is considered vested until the 90 day vesting duration expires or it is withdrawn from the fee distribution contract.
+Freshly minted HONOR is considered vested until the 90 day vesting duration expires or it is withdrawn from the fee distribution contract.
 {% endhint %}
 
 Users can deposit designated tokens to earn $HONOR . Compared to other farms\(such as YFI\), the HONOR farm will NOT lock the funds in vain. To make use of the locked funds so that the HONOR protocol is a healthy, continuous one, the $HONOR pool will be built upon farms that are audited and secure.
