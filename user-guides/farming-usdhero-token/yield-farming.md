@@ -25,7 +25,7 @@ Currently, the pools are built upon QuickSwap main farms.
 
 The actual pool constitutions and multiples are subject to change. Please stay updated with latest news in our group and the doc here.
 
-There is an extra single token staking pool for $HERO, where you can earn $USDC + $HONOR. The rewards come from Vault Farming.
+There is an extra single token staking pool for $HONOR where you can earn $USDC + $HONOR. The rewards come from Vault Farming.
 
 ## Deposit and Withdrawal
 
