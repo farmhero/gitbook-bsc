@@ -6,7 +6,7 @@ The FarmHero referral system is called the "PlayerBook. To join, click the "Get 
 
 The referral relationship will establish once: 1. your referral joins any one of the farms, 2. your referral burns any key.
 
-You will earn: 1. 3% extra $HERO whenever your referral claims any freshly minted $Hero. These extra $Hero are considered fresh minted $Hero as well. 2. 5% of all the $KEY put into the Fomo Game by anyone that joins through your link.
+You will earn: 1. 3% extra $HONOR whenever your referral claims any freshly minted $HONOR. These extra $HONOR are considered fresh minted $Hero as well. 2. 5% of all the $KEY put into the Fomo Game by anyone that joins through your link.
 
 The extra referral fees are all at **NO** cost to those who uses your link. 
 

@@ -9,9 +9,9 @@
 ## USER GUIDES
 
 * [APR vs. APY](user-guides/apr-vs.-apy.md)
-* [Farming Hero Token](user-guides/farming-usdhero-token/README.md)
+* [Farming HONOR Token](user-guides/farming-usdhero-token/README.md)
   * [Yield Farming \(Vaults\)](user-guides/farming-usdhero-token/yield-farming.md)
-  * [Vesting/Staking/Locking Hero](user-guides/farming-usdhero-token/vesting-staking-locking-hero.md)
+  * [Vesting/Staking/Locking HONOR](user-guides/farming-usdhero-token/vesting-staking-locking-hero.md)
   * [NFT Farming](user-guides/farming-usdhero-token/nft-farming.md)
 * [NFT](user-guides/buying-genesis-nft/README.md)
   * [NFT MarketPlace](user-guides/buying-genesis-nft/nft-marketplace.md)
@@ -27,8 +27,8 @@
 
 * [Contract Address](protocol/contract-address.md)
 * [Tokens](protocol/tokens/README.md)
-  * [bHero](protocol/tokens/bhero.md)
-  * [Hero](protocol/tokens/hero.md)
+  * [HERO](protocol/tokens/bhero.md)
+  * [HONOR](protocol/tokens/hero.md)
   * [KEY](protocol/tokens/key.md)
 * [NFT](protocol/nft.md)
 * [Guardians](protocol/guardians.md)

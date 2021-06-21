@@ -16,5 +16,5 @@ Yet, use the protocol with caution and strategy, as earnings are not guaranteed.
 
 ## Why we are called Farm Hero?
 
-Farm Hero's continuous token ecosystem are built upon renowned yield _**farms**_. Safety comes first. Candidates are pancakeswap on binance smart chain, sushiswap on ethereum, quickswap on matic, mdex on binance smart chain and heco, salmonswap on tron, and more.
+FarmHero's continuous token ecosystem are built upon renowned yield _**farms**_. Safety comes first. Candidates are pancakeswap on binance smart chain, sushiswap on ethereum, quickswap on matic, mdex on binance smart chain and heco, salmonswap on tron, and more.
 

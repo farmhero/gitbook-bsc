@@ -1,4 +1,4 @@
-# Vesting/Staking/Locking Hero
+# Vesting/Staking/Locking HONOR
 
 {% hint style="info" %}
 Freshly minted HERO is considered vested until the 90 day vesting duration expires or it is withdrawn from the fee distribution contract.

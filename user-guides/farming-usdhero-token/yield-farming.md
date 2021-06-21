@@ -4,13 +4,13 @@
 Freshly minted HERO is considered vested until the 90 day vesting duration expires or it is withdrawn from the fee distribution contract.
 {% endhint %}
 
-Users can deposit designated tokens to earn $HERO. Compared to other farms\(such as YFI\), the HERO farm will NOT lock the funds in vain. To make use of the locked funds so that the HERO protocol is a healthy, continuous one, the $Hero pool will be built upon farms that are audited and secure.
+Users can deposit designated tokens to earn $HONOR . Compared to other farms\(such as YFI\), the HONOR farm will NOT lock the funds in vain. To make use of the locked funds so that the HONOR protocol is a healthy, continuous one, the $HONOR pool will be built upon farms that are audited and secure.
 
 Currently, the pools are built upon QuickSwap main farms.
 
 | Pool | Farm | Multiple | Limited Time Depoist Fee |
 | :--- | :--- | :--- | :--- |
-| HERO-USDC | QUICKSWAP | 120X | NO |
+| HONOR-USDC | QUICKSWAP | 120X | NO |
 | Matic-ETH | QUICKSWAP | 10X | YES |
 | MATIC-USDC | QUICKSWAP | 10X | YES |
 | USDT-ETH  | QUICKSWAP | 10X | YES |
@@ -20,11 +20,11 @@ Currently, the pools are built upon QuickSwap main farms.
 | BTC-USDC | QUICKSWAP | 10X | YES |
 | BTC-ETH | QUICKSWAP | 10X | YES |
 | USDC-DAI | QUICKSWAP | 5X | YES |
-| bHero-USDC | QUICKSWAP | 5X | YES |
+| Hero-USDC | QUICKSWAP | 5X | YES |
 
 The actual pool constitutions and multiples are subject to change. Please stay updated with latest news in our group and the doc here.
 
-There is an extra single token staking pool for $HERO, where you can earn $USDC + $HERO. The rewards come from Vault Farming.
+There is an extra single token staking pool for $HERO, where you can earn $USDC + $HONOR. The rewards come from Vault Farming.
 
 ## Deposit and Withdrawal
 
@@ -50,7 +50,7 @@ There is a general early exit fee for the pools, depending on the deposit time. 
 
 ## Vault Profits Usage
 
-While users earn $HERO tokens in HERO pools, the funds will be put into pancake main staking contracts. The profits generated will be $cake. The $cake coins will be sold into $BUSD and used to fund the hero protocol games.
+While users earn $HONOR tokens in HONOR pools, the funds will be put into Quickswap main staking contracts. The profits generated will be $cake. Some $Quick coins will be sold into $USDc and used to fund the HONOR staking pools, most of the $Quick will be send to game pots. 
 
 | Percentage | Usage |
 | :--- | :--- |
