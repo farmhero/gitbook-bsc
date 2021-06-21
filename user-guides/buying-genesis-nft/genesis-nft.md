@@ -4,7 +4,7 @@ Genesis NFTs have a unique property: it will earn a fixed portion of the $Hero t
 
 Users can buy genesis NFT using . Currently we offer three genesis NFT.
 
-The NFT has to be deposited to NFT farm to earn $HERO. Users can withdraw anytime from NFT farm.
+The NFT has to be deposited to NFT farm to earn $HONOR . Users can withdraw anytime from NFT farm.
 
 | Genesis NFT Name | Amount | Acquire Method | Unique Property |
 | :--- | :--- | :--- | :--- |
@@ -13,7 +13,7 @@ The NFT has to be deposited to NFT farm to earn $HERO. Users can withdraw anytim
 | Kitty Loving Sushi | 10000 | Genesis Sale | Genesis Hash Rate: 168 |
 | Kitty and the Dragon | - | Event with Quickswap | Genesis Hash Rate: 10 |
 
-NFTs who have a Genesis Hash Rate can farm in our Genesis NFT Farms. The max emission of HERO of the Genesis Farm is 5%. 
+NFTs who have a Genesis Hash Rate can farm in our Genesis NFT Farms. The max emission of HONOR of the Genesis Farm is 5%. 
 
 If you stake your NFTs \(which has a genesis hash rate\) to farm, you will earn
 
@@ -21,7 +21,7 @@ If you stake your NFTs \(which has a genesis hash rate\) to farm, you will earn
 Hero Earned = Sum (My NFTs' Genesis Hash Rate)/ Total Hash Rate of NFTs in Farm
 ```
 
-The emission of Hero towards genesis NFT farms are based on total hash rate of the NFTs staking in the farm.
+The emission of HONOR towards genesis NFT farms are based on total hash rate of the NFTs staking in the farm.
 
 | Total Hash Rate in Farm | Emission |
 | :--- | :--- |
@@ -35,5 +35,5 @@ The emission of Hero towards genesis NFT farms are based on total hash rate of t
 
 Genesis Hash Rate is a unique value, NFTs with such value will be able to farm in Genesis NFT farm. The NFTs who can own this value are limited to genesis series and some special editions of community NFTs.
 
-Unsold, un-deposited genesis NFT will not share from the $Hero production and the rest of the unclaimed $Hero will stay in the contract for future burn.
+Unsold, un-deposited genesis NFT will not share from the $HONOR production and the rest of the unclaimed $HONOR will stay in the contract for future burn.
 
