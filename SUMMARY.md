@@ -27,6 +27,7 @@
 
 * [Contract Address](protocol/contract-address.md)
 * [Tokens](protocol/tokens/README.md)
+  * [bHero](protocol/tokens/bhero.md)
   * [Hero](protocol/tokens/hero.md)
   * [KEY](protocol/tokens/key.md)
 * [NFT](protocol/nft.md)
