@@ -2,7 +2,7 @@
 
 | Usage | Contract Address |
 | :--- | :--- |
-| HONOR TOKEN |  |
+| HONOR TOKEN | 0xb82A20B4522680951F11c94c54B8800c1C237693 |
 | HONOR NFT |  |
 | HERO \(Token\) | 0x6afcff9189e8ed3fcc1cffa184feb1276f6a82a5 |
 | Yield Farm |  |
