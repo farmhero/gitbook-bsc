@@ -10,6 +10,7 @@
 
 * [APR vs. APY](user-guides/apr-vs.-apy.md)
 * [Farming $Hero Token](user-guides/farming-usdhero-token/README.md)
+  * [Vesting/Staking/Locking Hero](user-guides/farming-usdhero-token/vesting-staking-locking-hero.md)
   * [Yield Farming \(Vaults\)](user-guides/farming-usdhero-token/yield-farming.md)
   * [NFT Farming](user-guides/farming-usdhero-token/nft-farming.md)
 * [NFT](user-guides/buying-genesis-nft/README.md)
