@@ -22,10 +22,9 @@ Hero Earned = Sum (My NFTs' Genesis Hash Rate)/ Total Hash Rate of NFTs in Farm
 
 The emission of Hero towards genesis NFT farms are based on total hash rate of the NFTs staking in the farm.
 
-| Total Hash Rafe in Farm | Emission |
+| Total Hash Rate in Farm | Emission |
 | :--- | :--- |
-| &lt;0.5 million | 0.5% |
-| 0.5 million - 1 million | 1% |
+| &lt;1 million | 1% |
 | 1 million - 2 million | 2% |
 | 2 million - 3 million  | 2.5% |
 | 3 million - 4 million | 3% |

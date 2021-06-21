@@ -45,8 +45,9 @@ While users earn $HERO tokens in HERO pools, the funds will be put into pancake 
 
 | Percentage | Usage |
 | :--- | :--- |
-| 50% | The Auction Game |
-| 20% | The Fomo Game |
-| 25% | Discretionary Stability Funds to maintain $hero price |
-| 5% | Team |
+| 30% | The FOMO Game |
+| 15% | The Auction Game |
+| 15% | The Roll Game |
+| 30% | Swap to USDc as Performance Fee and send to Staking Pool Contract |
+| 10% | Team |
 
