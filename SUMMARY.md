@@ -16,7 +16,7 @@
 * [NFT](user-guides/buying-genesis-nft/README.md)
   * [NFT MarketPlace](user-guides/buying-genesis-nft/nft-marketplace.md)
   * [Genesis NFT](user-guides/buying-genesis-nft/genesis-nft.md)
-  * [Blind Box](user-guides/buying-genesis-nft/blind-box.md)
+  * [Loot Box](user-guides/buying-genesis-nft/blind-box.md)
 * [The Auction Game](user-guides/the-auction-game.md)
 * [The Fomo Game](user-guides/the-fomo-game/README.md)
   * [Game Rules \(old\)](user-guides/the-fomo-game/game-rules-old.md)
