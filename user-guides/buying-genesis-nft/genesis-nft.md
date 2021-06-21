@@ -6,11 +6,12 @@ Users can buy genesis NFT using . Currently we offer three genesis NFT.
 
 The NFT has to be deposited to NFT farm to earn $HERO. Users can withdraw anytime from NFT farm.
 
-| Genesis NFT Name | Amount | Unique Property |
-| :--- | :--- | :--- |
-| Doggy Who owns the world | 1000 | Genesis Hash Rate: 1680 |
-| Rocket Doggy | 5000 | Genesis Hash Rate: 660 |
-| Kitty Loving Sushi | 10000 | Genesis Hash Rate: 168 |
+| Genesis NFT Name | Amount | Acquire Method | Unique Property |
+| :--- | :--- | :--- | :--- |
+| Doggy Who owns the world | 1000 | Genesis Sale | Genesis Hash Rate: 1680 |
+| Rocket Doggy | 5000 | Genesis Sale | Genesis Hash Rate: 660 |
+| Kitty Loving Sushi | 10000 | Genesis Sale | Genesis Hash Rate: 168 |
+| Kitty and the Dragon | - | Event with Quickswap | Genesis Hash Rate: 10 |
 
 NFTs who have a Genesis Hash Rate can farm in our Genesis NFT Farms. The max emission of HERO of the Genesis Farm is 5%. 
 
