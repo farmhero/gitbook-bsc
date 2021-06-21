@@ -15,8 +15,9 @@ Currently, the pools are built upon QuickSwap main farms.
 | MATIC-USDC | QUICKSWAP | 10X | YES |
 | USDT-ETH  | QUICKSWAP | 10X | YES |
 | DAI-ETH | QUICKSWAP | 10X | YES |
-| MATIC-QUICK | QUICKSWAP | 10X | YES |
-| USDC-QUICK | QUICKSWAP | 10X | YES |
+| MATIC-QUICK | QUICKSWAP | 10X | YES, but with 50% discount |
+| USDC-QUICK | QUICKSWAP | 10X | YES, but with 50% discount |
+| ETH-QUICK | QUICKSWAP | 10X | YES, but with 50% discount |
 | BTC-USDC | QUICKSWAP | 10X | YES |
 | BTC-ETH | QUICKSWAP | 10X | YES |
 | USDC-USDT | QUICKSWAP | 5X | YES |
@@ -37,7 +38,7 @@ Users can freely deposit and withdraw tokens from pools anytime. But for certain
 | 2 days - 3 days | 2% |
 | more than 3 days | 1% |
 
-There is a general early exit fee for the pools, depending on the deposit time. There is no entry fee.
+There is a general early exit fee for the pools, depending on the deposit time. 
 
 | Deposit Time | Early Exit Fee |
 | :--- | :--- |
