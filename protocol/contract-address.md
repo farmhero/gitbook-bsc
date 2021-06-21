@@ -2,16 +2,17 @@
 
 | Usage | Contract Address |
 | :--- | :--- |
-| HeroCard \(NFT\) | 0xb82a20b4522680951f11c94c54b8800c1c237693 |
-| HERO \(Token\) | 0x9B26e16377ad29A6CCC01770bcfB56DE3A36d8b2 |
-| Yield Farm | 0xDAD01f1d99191a2eCb78FA9a007604cEB8993B2D |
-| Utility \(Helper Contract for Multicall\) | 0xC8e93e785f67C214b561414c057a5654AD786edE |
-| Key\(Token\) | 0x56a51255914881565d27794f9062f7Ec5A519FA3 |
-| PlayerBook \(referral\) | 0xBcc3097B09Ffe7ab01C0626c5dF988C28Efa8e3a |
-| Auction Game | 0x59a7328E93e7C71057AB6EBBc07e5Ed99FE1ef9f |
-| Fomo Game | 0x4BA3fEb5ad1d068a82B8E3271a3C88Dc4772E09E |
-| Buy-Back | 0x173CEC25F0a6cD34FB271f5Ec2A5547f1C9b6645 |
-| Roll Game | 0x8c4c7c2bE3078a2baB7A74D972f19D36f3035A65 |
-| Reward Distribution | 0x831dFbF4356521A879E6dFC8e87acAe5C28b3453 |
-| Hero Pool | 0x64271660F0b139977607049dD4CC562b193943dB |
+| HONOR TOKEN |  |
+| HONOR NFT |  |
+| HERO \(Token\) | 0x6afcff9189e8ed3fcc1cffa184feb1276f6a82a5 |
+| Yield Farm |  |
+| Utility \(Helper Contract for Multicall\) |  |
+| Key\(Token\) |  |
+| PlayerBook \(referral\) |  |
+| Auction Game |  |
+| Fomo Game |  |
+| Buy-Back |  |
+| Roll Game |  |
+| Reward Distribution |  |
+| Fee Distribution \(staking + vesting\) |  |
 
