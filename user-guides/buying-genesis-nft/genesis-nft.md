@@ -9,7 +9,7 @@ The NFT has to be deposited to NFT farm to earn $HERO. Users can withdraw anytim
 | Genesis NFT Name | Amount | Acquire Method | Unique Property |
 | :--- | :--- | :--- | :--- |
 | Doggy Who owns the world | 1000 | Genesis Sale | Genesis Hash Rate: 1680 |
-| Rocket Doggy | 5000 | Genesis Sale | Genesis Hash Rate: 660 |
+| Gundam Doggy | 5000 | Genesis Sale | Genesis Hash Rate: 660 |
 | Kitty Loving Sushi | 10000 | Genesis Sale | Genesis Hash Rate: 168 |
 | Kitty and the Dragon | - | Event with Quickswap | Genesis Hash Rate: 10 |
 
