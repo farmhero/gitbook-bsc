@@ -10,13 +10,8 @@ Currently, the pools are built upon QuickSwap main farms.
 
 | Pool | Farm | Multiple | Limited Time Depoist Fee |
 | :--- | :--- | :--- | :--- |
-| HERO-USDC | QUICKSWAP | 100X | NO |
-| HERO-MATIC | QUICKSWAP | 100X | NO |
-| HERO-ETH | QUICKSWAP | 30X | NO |
-| HERO-USDT | QUICKSWAP | 30X | NO |
-| HERO-QUICK | QUICKSWAP | 20X | NO |
-| bHero-USDC | QUICKSWAP | 10X | YES |
-| bHero-Matic | QUICKSWAP | 10X | YES |
+| HERO-USDC | QUICKSWAP | 300X | NO |
+| bHero-USDC | QUICKSWAP | 20X | YES |
 | Matic-ETH | QUICKSWAP | 10X | YES |
 | MATIC-USDC | QUICKSWAP | 10X | YES |
 | USDT-ETH  | QUICKSWAP | 10X | YES |
