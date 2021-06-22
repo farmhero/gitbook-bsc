@@ -1,5 +1,11 @@
 # Contract Address
 
+## As we just launched on Polygon, we will fill the contract address soon.
+
+
+
+
+
 | Usage | Contract Address |
 | :--- | :--- |
 | HONOR TOKEN | 0xb82A20B4522680951F11c94c54B8800c1C237693 |
