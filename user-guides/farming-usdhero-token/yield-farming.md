@@ -34,9 +34,9 @@ Users can freely deposit and withdraw tokens from pools anytime. But for certain
 |  | Deposit Fee |
 | :--- | :--- |
 | within 1 day \(24 hrs\) of Launch | 4% |
-| 1 day - 2 days | 3% |
-| 2 days - 3 days | 2% |
-| more than 3 days | 1% |
+| 2 day - 3 days | 3% |
+| 3 days - 5 days | 2% |
+| more than 5 days | 1% |
 
 There is a general early exit fee for the pools, depending on the deposit time. 
 
