@@ -11,5 +11,6 @@
 | PlayerBook \(referral\) | 0x7307Cb81D773bA3BBfba60E2092DDCDB4Cf03BD0 |
 | Auction Game | 0x5B223E6a503EA0DfF81d2b691BEB437b7fB2C131 |
 | Fomo Game | 0x5f7A39933E982eF31B02e28481a2afCd9D14e21d |
-| Fee Distribution \(staking + vesting\) | 0x8eDF4f4162419359d36aed75b18385eAb3937Cdb |
+| Fee Distribution \(staking + vesting\) | 0x047e7D6E8f4b6dEBa0537A7c7e852C4272981075 |
+| Retired Fee Distribution | 0x8eDF4f4162419359d36aed75b18385eAb3937Cdb |
 
