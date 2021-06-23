@@ -20,7 +20,7 @@ These contracts does **not** hold any client fund but only pot prize. Also game 
 
 ### Staking Contract
 
-This contract is not deployed using any proxy because we forked it from EPS project on bsc. 
+We forked it from EPS project on bsc. It stakes USDc rewards to $HONOR holders $HONOR and we will add **timelocks to the proxy owner** once our protocol goes into stable mode.
 
 
 
