@@ -9,7 +9,7 @@ Freshly minted HONOR is considered vested until the 90 day vesting duration expi
 |  | Vesting | Staking | Locking |
 | :--- | :--- | :--- | :--- |
 | Lock Duration | 90 days | None | 90 days |
-| Earn performance fees | YES | YES | YES |
+| Earn performance fees | NO | YES | NO |
 | Earn early withdrawal penalty fees | NO | NO | YES |
 | Early withdrawal penalty | 50% | NO | can't withdraw until lock expires |
 
