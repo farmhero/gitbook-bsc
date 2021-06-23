@@ -1,24 +1,15 @@
 # Contract Address
 
-## As we just launched on Polygon, we will fill the contract address soon.
-
-
-
-
-
 | Usage | Contract Address |
 | :--- | :--- |
 | HONOR TOKEN | 0xb82A20B4522680951F11c94c54B8800c1C237693 |
-| HONOR NFT |  |
+| HONOR NFT | 0x908252D3548b26D691FB39Fa808e7554Bb8dd2ee |
 | HERO \(Token\) | 0x6afcff9189e8ed3fcc1cffa184feb1276f6a82a5 |
-| Yield Farm |  |
-| Utility \(Helper Contract for Multicall\) |  |
-| Key\(Token\) |  |
-| PlayerBook \(referral\) |  |
-| Auction Game |  |
-| Fomo Game |  |
-| Buy-Back |  |
-| Roll Game |  |
-| Reward Distribution |  |
-| Fee Distribution \(staking + vesting\) |  |
+| Yield Farm | 0x8e5860DF653A467D1cC5b6160Dd340E8D475724E |
+| Utility \(Helper Contract for Multicall\) | 0x9c261FF81bAB1fE9ef922BF5468D1f610740c6F9 |
+| Key\(Token\) | 0xbD836E5FE987401E04C629F53B036ebb6ADbFEEc |
+| PlayerBook \(referral\) | 0x7307Cb81D773bA3BBfba60E2092DDCDB4Cf03BD0 |
+| Auction Game | 0x5B223E6a503EA0DfF81d2b691BEB437b7fB2C131 |
+| Fomo Game | 0x5f7A39933E982eF31B02e28481a2afCd9D14e21d |
+| Fee Distribution \(staking + vesting\) | 0x8eDF4f4162419359d36aed75b18385eAb3937Cdb |
 
