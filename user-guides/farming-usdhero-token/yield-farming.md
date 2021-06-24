@@ -16,7 +16,6 @@ Currently, the pools are built upon QuickSwap main farms.
 | USDT-ETH  | QUICKSWAP | 10X | YES |
 | DAI-ETH | QUICKSWAP | 10X | YES |
 | MATIC-QUICK | QUICKSWAP | 10X | YES, but with 50% discount |
-| USDC-QUICK | QUICKSWAP | 10X | YES, but with 50% discount |
 | ETH-QUICK | QUICKSWAP | 10X | YES, but with 50% discount |
 | BTC-USDC | QUICKSWAP | 10X | YES |
 | BTC-ETH | QUICKSWAP | 10X | YES |
