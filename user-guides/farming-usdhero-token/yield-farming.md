@@ -29,14 +29,7 @@ There is an extra single token staking pool for $HONOR where you can earn $USDC 
 
 ## Deposit and Withdrawal
 
-Users can freely deposit and withdraw tokens from pools anytime. But for certain pools within a limited time upon launch, there will be deposit fee. 
-
-|  | Deposit Fee |
-| :--- | :--- |
-| within 1 day \(24 hrs\) of Launch | 4% |
-| 2 day - 3 days | 3% |
-| 3 days - 5 days | 2% |
-| more than 5 days | 1% |
+Users can freely deposit and withdraw tokens from pools anytime. But for certain pools within a limited time upon launch, there will be deposit fee.  The deposit fee is listed on pool.
 
 There is a general early exit fee for the pools, depending on the deposit time. 
 
