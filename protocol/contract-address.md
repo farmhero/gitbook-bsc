@@ -13,4 +13,6 @@
 | Fomo Game | 0x5f7A39933E982eF31B02e28481a2afCd9D14e21d |
 | Fee Distribution \(staking + vesting\) | 0x047e7D6E8f4b6dEBa0537A7c7e852C4272981075 |
 | Retired Fee Distribution | 0x8eDF4f4162419359d36aed75b18385eAb3937Cdb |
+| Timelock \(48 hrs\) | 0x09dE73dD716047C4586ec18280Af312B1B92fE7C |
+| ProxyAdmin | 0xC7251aD96Df7877Afc3C3AF533B4227604b5e70A |
 
