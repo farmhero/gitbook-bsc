@@ -28,7 +28,6 @@
 * [Tokens](protocol/tokens/README.md)
   * [HONOR](protocol/tokens/honor.md)
   * [HERO](protocol/tokens/bhero.md)
-  * [HONOR](protocol/tokens/hero.md)
   * [KEY](protocol/tokens/key.md)
 * [NFT](protocol/nft.md)
 * [Guardians](protocol/guardians.md)
