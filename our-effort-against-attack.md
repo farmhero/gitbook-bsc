@@ -12,7 +12,9 @@ We have witnessed several project, including uranium on Binance Smart Chain, bun
 
 ### MasterChef
 
-This is the main farming contract, as we are inherently a vault, the funds \(DEX LP tokens\) deposit by users will go to QuickSwap \(or other DEX\) farms eventually, we will add **timelocks to the proxy owner** once our protocol goes into stable mode.
+We have timelocked \(48 hrs\) our MasterChef contract by tx:
+
+[https://polygonscan.com/tx/0x604d2c90d8150646cedb02db5529815f829f9fffe5422d63689b6c732c8d3427](https://polygonscan.com/tx/0x604d2c90d8150646cedb02db5529815f829f9fffe5422d63689b6c732c8d3427)
 
 ### Game Contracts
 
