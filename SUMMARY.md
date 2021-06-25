@@ -26,6 +26,7 @@
 
 * [Contract Address](protocol/contract-address.md)
 * [Tokens](protocol/tokens/README.md)
+  * [HONOR](protocol/tokens/honor.md)
   * [HERO](protocol/tokens/bhero.md)
   * [HONOR](protocol/tokens/hero.md)
   * [KEY](protocol/tokens/key.md)
