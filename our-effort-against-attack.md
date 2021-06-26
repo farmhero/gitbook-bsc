@@ -12,9 +12,27 @@ We have witnessed several project, including uranium on Binance Smart Chain, bun
 
 ### MasterChef
 
-We have timelocked \(48 hrs\) our MasterChef contract by tx:
+We have timelocked \(48 hrs\) our MasterChef contract's Proxy Admin by setting the owner of the ProxyAdmin contract to the timelock contract. Therefore, any execution to update the masterchef contract will be delaying 48 hours on chain. 
 
-[https://polygonscan.com/tx/0x604d2c90d8150646cedb02db5529815f829f9fffe5422d63689b6c732c8d3427](https://polygonscan.com/tx/0x604d2c90d8150646cedb02db5529815f829f9fffe5422d63689b6c732c8d3427)
+| Contract | Address |
+| :--- | :--- |
+| ProxyAdmin | 0xC7251aD96Df7877Afc3C3AF533B4227604b5e70A |
+| Timelock \(48 hrs\) | 0x09dE73dD716047C4586ec18280Af312B1B92fE7C |
+| MasterChef \(Yield Farm\) | 0x8e5860DF653A467D1cC5b6160Dd340E8D475724E |
+
+#### How to Verify:
+
+1. You can check the current ProxyAdmin of our MasterChef Contract [Here via PolygonScan](https://polygonscan.com/address/0xC7251aD96Df7877Afc3C3AF533B4227604b5e70A#readContract): put in our masterchef contract address and try get ProxyAdmin, you will see that currently the proxyAdmin of our masterChef contract is indeed 0xC7251aD96Df7877Afc3C3AF533B4227604b5e70A.
+
+![](.gitbook/assets/image%20%282%29.png)
+
+2. Also scroll down you can see that the owner of this ProxyAdmin is 0x09dE73dD716047C4586ec18280Af312B1B92fE7C, which is our timelock contract.
+
+![](.gitbook/assets/image%20%283%29.png)
+
+3. Click in to the [Timelock contract](https://polygonscan.com/address/0x09de73dd716047c4586ec18280af312b1b92fe7c#readContract), you can see that current delay is 172800 seconds, which is 48 hours.
+
+![](.gitbook/assets/image%20%284%29.png)
 
 ### Game Contracts
 
