@@ -24,15 +24,15 @@ We have timelocked \(48 hrs\) our MasterChef contract's Proxy Admin by setting t
 
 1. You can check the current ProxyAdmin of our MasterChef Contract [Here via PolygonScan](https://polygonscan.com/address/0xC7251aD96Df7877Afc3C3AF533B4227604b5e70A#readContract): put in our masterchef contract address and try get ProxyAdmin, you will see that currently the proxyAdmin of our masterChef contract is indeed 0xC7251aD96Df7877Afc3C3AF533B4227604b5e70A.
 
-![](.gitbook/assets/image%20%282%29.png)
+![](.gitbook/assets/image%20%288%29.png)
 
 2. Also scroll down you can see that the owner of this ProxyAdmin is 0x09dE73dD716047C4586ec18280Af312B1B92fE7C, which is our timelock contract.
 
-![](.gitbook/assets/image%20%283%29.png)
+![](.gitbook/assets/image%20%284%29.png)
 
 3. Click in to the [Timelock contract](https://polygonscan.com/address/0x09de73dd716047c4586ec18280af312b1b92fe7c#readContract), you can see that current delay is 172800 seconds, which is 48 hours.
 
-![](.gitbook/assets/image%20%284%29.png)
+![](.gitbook/assets/image%20%285%29.png)
 
 ### Game Contracts
 
