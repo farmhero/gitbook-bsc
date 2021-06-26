@@ -2,6 +2,7 @@
 
 * [Overview](README.md)
 * [Timelocks on our Contracts](our-effort-against-attack.md)
+* [Timelocks on our Contracts](timelocks-on-our-contracts.md)
 * [Audits](audits.md)
 * [RoadMaps](roadmaps.md)
 * [Terms of Service](terms-of-service.md)
