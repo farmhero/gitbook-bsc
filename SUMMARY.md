@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Overview](README.md)
-* [Our Effort Against Attack](our-effort-against-attack.md)
+* [Timelocks on our Contracts](our-effort-against-attack.md)
 * [Audits](audits.md)
 * [RoadMaps](roadmaps.md)
 * [Terms of Service](terms-of-service.md)

@@ -1,4 +1,4 @@
-# Our Effort Against Attack
+# Timelocks on our Contracts
 
 Recently we are aware of frequent flash-loan attack on Binance Smart Chain network. While the team has taken extra caution reviewing our contract code base in-depth and consulted multiple professional security agencies, we have enforced the following to ensure safety of our contracts.
 
