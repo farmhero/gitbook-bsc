@@ -22,6 +22,7 @@
   * [Reweight](user-guides/the-fomo-game/reweight.md)
 * [Referrals](user-guides/referrals.md)
 * [Verify On-Chain Data via PolygonScan](user-guides/verify-on-chain-data-via-polygonscan.md)
+* [How to get a free personal RPC](user-guides/how-to-get-a-free-personal-rpc.md)
 
 ## PROTOCOL
 
