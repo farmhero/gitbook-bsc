@@ -6,21 +6,7 @@ Freshly minted HONOR is considered vested until the 90 day vesting duration expi
 
 Users can deposit designated tokens to earn $HONOR . Compared to other farms\(such as YFI\), the HONOR farm will NOT lock the funds in vain. To make use of the locked funds so that the HONOR protocol is a healthy, continuous one, the $HONOR pool will be built upon farms that are audited and secure.
 
-Currently, the pools are built upon QuickSwap main farms.
-
-| Pool | Farm | Multiple | Limited Time Depoist Fee |
-| :--- | :--- | :--- | :--- |
-| HONOR-USDC | QUICKSWAP | 120X | NO |
-| Matic-ETH | QUICKSWAP | 10X | YES |
-| MATIC-USDC | QUICKSWAP | 10X | YES |
-| USDT-ETH  | QUICKSWAP | 10X | YES |
-| DAI-ETH | QUICKSWAP | 10X | YES |
-| MATIC-QUICK | QUICKSWAP | 10X | YES, but with 50% discount |
-| ETH-QUICK | QUICKSWAP | 10X | YES, but with 50% discount |
-| BTC-USDC | QUICKSWAP | 10X | YES |
-| BTC-ETH | QUICKSWAP | 10X | YES |
-| USDC-DAI | QUICKSWAP | 5X | YES |
-| Hero-USDC | QUICKSWAP | 5X | YES, but with 50% discount |
+![FARM POOL COMPONENTS](../../.gitbook/assets/image%20%2814%29.png)
 
 The actual pool constitutions and multiples are subject to change. Please stay updated with latest news in our group and the doc here.
 
