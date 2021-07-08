@@ -19,6 +19,7 @@ We have timelocked \(48 hrs\) our MasterChef contract's Proxy Admin by setting t
 | ProxyAdmin | 0xC7251aD96Df7877Afc3C3AF533B4227604b5e70A |
 | Timelock \(48 hrs\) | 0x09dE73dD716047C4586ec18280Af312B1B92fE7C |
 | MasterChef \(Yield Farm\) | 0x8e5860DF653A467D1cC5b6160Dd340E8D475724E |
+| HONOR | 0xb82A20B4522680951F11c94c54B8800c1C237693 |
 
 #### How to Verify:
 
@@ -42,7 +43,9 @@ These contracts does **not** hold any client fund but only pot prize. Also game 
 
 We forked it from EPS project on bsc. It stakes USDc rewards to $HONOR holders $HONOR and we will add **timelocks to the proxy owner** once our protocol goes into stable mode.
 
+\*\* latest transactions regarding ProxyAdmin locks
 
+[https://polygonscan.com/tx/0x303d4075b91cefaa204ea49bbe956cd69dbad05425f22d294825893d4f25f010](https://polygonscan.com/tx/0x303d4075b91cefaa204ea49bbe956cd69dbad05425f22d294825893d4f25f010)
 
-
+[https://polygonscan.com/tx/0xea1cdabdf67d7c80ef761a0cdc6b7765756a780ac3c959793fa514f9bb068061](https://polygonscan.com/tx/0xea1cdabdf67d7c80ef761a0cdc6b7765756a780ac3c959793fa514f9bb068061)
 
