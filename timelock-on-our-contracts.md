@@ -19,6 +19,7 @@ We have timelocked \(48 hrs\) our MasterChef contract's Proxy Admin by setting t
 | ProxyAdmin | 0x53DeD22F02789B6811E10c5326730E62Cb328Cf9 |
 | Timelock \(48 hrs\) | 0x32A67309C356D8Db401eb159Bca11aDc6a48cae0 |
 | MasterChef \(Yield Farm\) | 0xDAD01f1d99191a2eCb78FA9a007604cEB8993B2D |
+| Hero \(token\) | 0x9B26e16377ad29A6CCC01770bcfB56DE3A36d8b2 |
 
 #### How to Verify:
 
