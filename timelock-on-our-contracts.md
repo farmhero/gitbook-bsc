@@ -47,3 +47,11 @@ We forked it from EPS project on bsc. It stakes USDc rewards to $HONOR holders $
 
 
 
+\*\* attaching the latest transaction to change ProxyAdmin
+
+ [https://bscscan.com/tx/0x3e4d85349e3c7651c79a10efccc0e77e13a0019b9dd90f3eabab5d6715026e73](https://bscscan.com/tx/0x3e4d85349e3c7651c79a10efccc0e77e13a0019b9dd90f3eabab5d6715026e73)
+
+[https://bscscan.com/tx/0xfd0160f302de3afee9ef3d8954b74a539bdb1a277c04af2a2453b7a7c09b5f74](https://bscscan.com/tx/0xfd0160f302de3afee9ef3d8954b74a539bdb1a277c04af2a2453b7a7c09b5f74)
+
+
+
