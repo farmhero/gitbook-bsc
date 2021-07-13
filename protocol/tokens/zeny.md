@@ -14,7 +14,7 @@ This is what Amplforth has done, it has proven to be successful.
 
 ## Initial Circulating Supply
 
-The initial circulating of ZENY is 1000, the 1000 ZENY + 1000 USDC LP is added to initial liquidity pool.This CARROT/USDC-LP will be transact into the dead address.
+The initial circulating of ZENY is 1000, the 1000 ZENY + 1000 USDC LP is added to initial liquidity pool.This ZENY-USDC-LP will be transferred to the dead address.
 
 ## Rebase: Elastic Supply
 
