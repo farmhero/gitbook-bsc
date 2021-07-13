@@ -16,6 +16,8 @@ This is what Amplforth has done, it has proven to be successful.
 
 The initial circulating of ZENY is 1000, the 1000 ZENY + 1000 USDC LP is added to initial liquidity pool.This ZENY-USDC-LP will be transferred to the dead address.
 
+Another 1000 ZENY will be used to launch the 36-hour ZENY Pool for HONOR holders.
+
 ## Rebase: Elastic Supply
 
 1. There will be 2 pools in boardroom, X3 and X7 pool. 
