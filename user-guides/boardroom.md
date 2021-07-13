@@ -12,8 +12,9 @@ ZENY is set to rebase according to its 12-hour time weighted average price every
 | DateTime | Item |
 | :--- | :--- |
 | 2021-07-13 14:00 UTC | Add 1000 Zeny-USDC LP to QuickSwap |
+| 2021-07-13 14:00 UTC | Launch the 36-hour ZENY Pool \(1000 ZENY reward\) |
 | 2021-07-13 14:30 UTC | Launch ZENY-USDC LP farm |
-| 2021-07-16 02:00 UTC | 1st Rebase |
+| 2021-07-16 14:00 UTC | 1st Rebase |
 
 Regular Daily Rebase time: 02:00 and 14:00 UTC time.
 
