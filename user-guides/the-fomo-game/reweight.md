@@ -1,8 +1,8 @@
 # Reweight
 
-Reweights are used to return the Pancake spot price of the $KEY-$HERO pair back to 1. 
+Reweights are used to return the Pancake spot price of the $KEY-$HERO pair back to 1.
 
-The algorithm is as follows: 
+The algorithm is as follows:
 
 1. withdraw 99% of the $KEY and $HERO from pancake LP pool. 
 2. execute a trade with held $KEY to bring the spot price back up to 1 
@@ -11,8 +11,6 @@ The algorithm is as follows:
 5. Burn the excessive $HERO.
 
 {% hint style="info" %}
-Only 99% is withdrawn because if there are no other LPs there could be rounding errors 
+Only 99% is withdrawn because if there are no other LPs there could be rounding errors
 {% endhint %}
-
-
 

@@ -1,4 +1,4 @@
-# Blind Box
+# Loot Box
 
-Users can get Blind Box and get FarmHero NFT. This part is now under development.
+Users can get Loot Box and get FarmHero NFT. This part is now under development.
 
