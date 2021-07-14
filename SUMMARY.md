@@ -5,6 +5,7 @@
 * [Audits](audits.md)
 * [RoadMaps](roadmaps.md)
 * [Terms of Service](terms-of-service.md)
+* [Business Partnership](business-partnership.md)
 
 ## USER GUIDES
 
