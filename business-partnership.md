@@ -39,5 +39,5 @@ _Apply to integrate your projects' token to our Roll Game._
 * Users buy your token with HONOR-USDC LP tokens 
 * After the sale, we distribute the USDC to you and burn the HONOR.
 
-_Apply to run an IHO._
+\_\_[_Apply to run an IHO_](https://forms.gle/nSH97LRiddzy1rmk6)_._
 
