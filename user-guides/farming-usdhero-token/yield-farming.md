@@ -6,7 +6,7 @@ Freshly minted HONOR is considered vested until the 90 day vesting duration expi
 
 Users can deposit designated tokens to earn $HONOR . Compared to other farms\(such as YFI\), the HONOR farm will NOT lock the funds in vain. To make use of the locked funds so that the HONOR protocol is a healthy, continuous one, the $HONOR pool will be built upon farms that are audited and secure.
 
-![](../../.gitbook/assets/image%20%2817%29.png)
+![](../../.gitbook/assets/image%20%2818%29.png)
 
 The actual pool constitutions and multiples are subject to change. Please stay updated with latest news in our group and the doc here.
 
