@@ -8,6 +8,7 @@ Currently, the pools are built upon Pancake main farms.
 | :--- | :--- | :--- |
 | Polygon Reserve | - | 20x |
 | BANANA-BNB LP | APESWAP | 2x |
+| ZENNY-BUSD LP | Pancake | 17x |
 | HERO-BNB LP | Pancake | 8x |
 | HERO-BUSD LP | Pancake | 16x |
 | BTCB-BNB LP | Pancake | 2x |
