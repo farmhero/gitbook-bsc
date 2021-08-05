@@ -14,7 +14,7 @@
         Auction Game, Fomo Game, Referral System</td>
     </tr>
     <tr>
-      <td style="text-align:left">By 2021 Aug</td>
+      <td style="text-align:left">By 2021 Sep</td>
       <td style="text-align:left">
         <p>Launch Blind Box NFT, Internal NFT market places.</p>
         <p>Start Incubation plan for community projects that can help $HERO community</p>
