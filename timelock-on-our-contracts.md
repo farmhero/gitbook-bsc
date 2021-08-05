@@ -1,5 +1,9 @@
 # Timelock on Our Contracts
 
+**PLEASE NOTE THIS SECTION HAS NOT BEEN UPDATED TO OEC VERSION.**
+
+\*\*\*\*
+
 Recently we are aware of frequent flash-loan attack on Binance Smart Chain network. While the team has taken extra caution reviewing our contract code base in-depth and consulted multiple professional security agencies, we have enforced the following to ensure safety of our contracts.
 
 1. We have **prevented** contracts calling our contracts in our code, which will essentially eliminate the possibility of flash-loan attack because attackers has to call our contract using his/her own contract.
