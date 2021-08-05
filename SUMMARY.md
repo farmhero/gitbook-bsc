@@ -4,7 +4,6 @@
 * [Timelock on Our Contracts](timelock-on-our-contracts.md)
 * [Our Effort Against Attack](our-effort-against-attack.md)
 * [Audits](audits.md)
-* [RoadMaps](roadmaps.md)
 * [Terms of Service](terms-of-service.md)
 
 ## USER GUIDES
