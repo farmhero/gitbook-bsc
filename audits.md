@@ -10,7 +10,9 @@ Nothing is more important than safety of funds for any DEFI protocol. The FarmHe
 
 FarmHero Certik Profile Page: [https://www.certik.org/projects/farmhero](https://www.certik.org/projects/farmhero)
 
-The team also employs Certik's Skynet to monitor security real-time.
+FarmHero PeckShield Audit Report
 
-{% file src=".gitbook/assets/pre-farmhero-2021-06-07.pdf" caption="Preliminary Comments on FarmHero Farm Contracts" %}
+[https://github.com/peckshield/publications/blob/master/audit\_reports/PeckShield-Audit-Report-FarmHero-v1.0.pdf](https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-FarmHero-v1.0.pdf)
+
+
 
