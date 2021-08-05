@@ -4,6 +4,8 @@ description: 'Stake HERO, EARN ZENNY, THE STABLECOIN'
 
 # BoardRoom
 
+**PLEASE NOTE THIS SECTION HAS NOT BEEN UPDATED TO OEC VERSION.**
+
 ## Earn
 
 1. HERO holders can stake HERO in boardroom to earn ZENNY inflation rewards.
