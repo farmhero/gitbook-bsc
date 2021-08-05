@@ -1,4 +1,4 @@
-# Staking and Vesting HERO
+# Staking and Vesting $Glory
 
 {% hint style="info" %}
 Freshly minted HERO token is considered vested until the 90 day vesting duration expires or it is withdrawn from the fee distribution contract.
@@ -11,7 +11,7 @@ Freshly minted HERO token is considered vested until the 90 day vesting duration
 | Earn early withdrawal penalty fees | NO | NO | YES |
 | Early withdrawal penalty | 50% | NO | can't withdraw until lock expires |
 
-Fee Sharing: BUSD reward
+Fee Sharing: USDT reward
 
-Early withdrawal penalty fee: HERO reward
+Early withdrawal penalty fee: $Glory reward
 
