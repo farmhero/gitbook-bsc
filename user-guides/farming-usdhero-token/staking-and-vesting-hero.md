@@ -11,8 +11,6 @@ Freshly minted HERO token is considered vested until the 90 day vesting duration
 | Earn early withdrawal penalty fees | NO | NO | YES |
 | Early withdrawal penalty | 50% | NO | can't withdraw until lock expires |
 
-
-
 Fee Sharing: BUSD reward
 
 Early withdrawal penalty fee: HERO reward

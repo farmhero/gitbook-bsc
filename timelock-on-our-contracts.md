@@ -6,13 +6,13 @@ Recently we are aware of frequent flash-loan attack on Binance Smart Chain netwo
 2. We are considering use delayed price feed.
 3. We are considering to use multiple price oracle.
 
-## A notes on FarmHero upgradable contracts and timelocks 
+## A notes on FarmHero upgradable contracts and timelocks
 
-We have witnessed several project, including uranium on Binance Smart Chain, bunny, who have smart contract design bug found but not able to fix timely, which caused lost of client funds. It's to our best interest to protect the funds safety so we deploy our contracts using upgradable proxy. Also it worths mention that mature team such as cream.finance and pancake have migrated their contracts to upgradable as well. 
+We have witnessed several project, including uranium on Binance Smart Chain, bunny, who have smart contract design bug found but not able to fix timely, which caused lost of client funds. It's to our best interest to protect the funds safety so we deploy our contracts using upgradable proxy. Also it worths mention that mature team such as cream.finance and pancake have migrated their contracts to upgradable as well.
 
 ### MasterChef
 
-We have timelocked \(48 hrs\) our MasterChef contract's Proxy Admin by setting the owner of the ProxyAdmin contract to the timelock contract. Therefore, any execution to update the masterchef contract will be delaying 48 hours on chain. 
+We have timelocked \(48 hrs\) our MasterChef contract's Proxy Admin by setting the owner of the ProxyAdmin contract to the timelock contract. Therefore, any execution to update the masterchef contract will be delaying 48 hours on chain.
 
 | Contract | Address |
 | :--- | :--- |
@@ -27,31 +27,25 @@ We have timelocked \(48 hrs\) our MasterChef contract's Proxy Admin by setting t
 
 ![](.gitbook/assets/image%20%281%29.png)
 
-2. Also scroll down you can see that the owner of this ProxyAdmin is 0x32A67309C356D8Db401eb159Bca11aDc6a48cae0, which is our timelock contract.
+1. Also scroll down you can see that the owner of this ProxyAdmin is 0x32A67309C356D8Db401eb159Bca11aDc6a48cae0, which is our timelock contract.
 
 ![](.gitbook/assets/image%20%282%29.png)
 
-3. Click in to the [Timelock contract](https://bscscan.com/address/0x32a67309c356d8db401eb159bca11adc6a48cae0), you can see that current delay is 172800 seconds, which is 48 hours.
+1. Click in to the [Timelock contract](https://bscscan.com/address/0x32a67309c356d8db401eb159bca11adc6a48cae0), you can see that current delay is 172800 seconds, which is 48 hours.
 
 ![](.gitbook/assets/image%20%283%29.png)
 
 ### Game Contracts
 
-These contracts does **not** hold any client fund but only pot prize. Also game rules are subject to change according to community opinions. We deploy them using upgradable proxy. 
+These contracts does **not** hold any client fund but only pot prize. Also game rules are subject to change according to community opinions. We deploy them using upgradable proxy.
 
 ### Staking Contract
 
 We forked it from EPS project on bsc. It stakes USDc rewards to $HONOR holders $HONOR and we will add **timelocks to the proxy owner** once our protocol goes into stable mode.
 
-
-
-
-
 \*\* attaching the latest transaction to change ProxyAdmin
 
- [https://bscscan.com/tx/0x3e4d85349e3c7651c79a10efccc0e77e13a0019b9dd90f3eabab5d6715026e73](https://bscscan.com/tx/0x3e4d85349e3c7651c79a10efccc0e77e13a0019b9dd90f3eabab5d6715026e73)
+[https://bscscan.com/tx/0x3e4d85349e3c7651c79a10efccc0e77e13a0019b9dd90f3eabab5d6715026e73](https://bscscan.com/tx/0x3e4d85349e3c7651c79a10efccc0e77e13a0019b9dd90f3eabab5d6715026e73)
 
 [https://bscscan.com/tx/0xfd0160f302de3afee9ef3d8954b74a539bdb1a277c04af2a2453b7a7c09b5f74](https://bscscan.com/tx/0xfd0160f302de3afee9ef3d8954b74a539bdb1a277c04af2a2453b7a7c09b5f74)
-
-
 

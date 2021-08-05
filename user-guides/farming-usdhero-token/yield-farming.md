@@ -1,8 +1,8 @@
 # Yield Farming \(Vaults\)
 
-Users can deposit designated tokens to earn $HERO. Compared to other farms\(such as YFI\), the HERO farm will NOT lock the funds in vain. To make use of the locked funds so that the HERO protocol is a healthy, continuous one, the $Hero pool will be built upon farms that are audited and secure. 
+Users can deposit designated tokens to earn $HERO. Compared to other farms\(such as YFI\), the HERO farm will NOT lock the funds in vain. To make use of the locked funds so that the HERO protocol is a healthy, continuous one, the $Hero pool will be built upon farms that are audited and secure.
 
-Currently, the pools are built upon Pancake main farms. 
+Currently, the pools are built upon Pancake main farms.
 
 | Pool | Farm | Multiple |
 | :--- | :--- | :--- |
@@ -23,13 +23,13 @@ Currently, the pools are built upon Pancake main farms.
 | DAI-BUSD LP | Pancake | 1x |
 | USDC-BUSD LP | Pancake | 1x |
 
-The actual pool constitutions and multiples are subject to change. Please stay updated with latest news in our group and the doc here. 
+The actual pool constitutions and multiples are subject to change. Please stay updated with latest news in our group and the doc here.
 
 There is an extra single token staking pool for $HERO, where you can earn $BUSD. The rewards come from Vault Farming.
 
-#### Deposit and Withdrawal
+## Deposit and Withdrawal
 
-Users can freely deposit and withdraw tokens from pools anytime. But there is an early exit fee for the pools, depending on the deposit time. There is no entry fee. 
+Users can freely deposit and withdraw tokens from pools anytime. But there is an early exit fee for the pools, depending on the deposit time. There is no entry fee.
 
 | Deposit Time | Early Exit Fee |
 | :--- | :--- |
@@ -40,16 +40,14 @@ Users can freely deposit and withdraw tokens from pools anytime. But there is an
 | 91 - 180 days | 0.1% |
 | More than 181 days | 0% |
 
-#### Vault Profits Usage
+## Vault Profits Usage
 
-While users earn $HERO tokens in HERO pools, the funds will be put into pancake main staking contracts. The profits generated will be $cake. The $cake coins will be sold into $BUSD and used to fund the hero protocol games.  
+While users earn $HERO tokens in HERO pools, the funds will be put into pancake main staking contracts. The profits generated will be $cake. The $cake coins will be sold into $BUSD and used to fund the hero protocol games.
 
 | Percentage | Usage |
 | :--- | :--- |
-| 50% | The Auction Game  |
+| 50% | The Auction Game |
 | 20% | The Fomo Game |
 | 25% | Discretionary Stability Funds to maintain $hero price |
 | 5% | Team |
-
-
 

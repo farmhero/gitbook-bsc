@@ -6,7 +6,3 @@ Recently we are aware of frequent flash-loan attack on Binance Smart Chain netwo
 2. We are considering use delayed price feed.
 3. We are considering to use multiple price oracle.
 
-
-
-
-
