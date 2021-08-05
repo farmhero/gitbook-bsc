@@ -1,38 +1,35 @@
 # Table of contents
 
 * [Overview](README.md)
-* [Timelocks on our Contracts](timelocks-on-our-contracts.md)
+* [Timelock on Our Contracts](timelock-on-our-contracts.md)
+* [Our Effort Against Attack](our-effort-against-attack.md)
 * [Audits](audits.md)
 * [RoadMaps](roadmaps.md)
 * [Terms of Service](terms-of-service.md)
-* [Business Partnership](business-partnership.md)
 
 ## USER GUIDES
 
 * [APR vs. APY](user-guides/apr-vs.-apy.md)
-* [Farming HONOR Token](user-guides/farming-usdhero-token/README.md)
-  * [Yield Farming \(Vaults\)](user-guides/farming-usdhero-token/yield-farming.md)
-  * [Vesting/Staking/Locking HONOR](user-guides/farming-usdhero-token/vesting-staking-locking-hero.md)
-  * [NFT Farming](user-guides/farming-usdhero-token/nft-farming.md)
 * [BoardRoom](user-guides/boardroom.md)
+* [Farming $Hero Token](user-guides/farming-usdhero-token/README.md)
+  * [Yield Farming \(Vaults\)](user-guides/farming-usdhero-token/yield-farming.md)
+  * [Staking and Vesting HERO](user-guides/farming-usdhero-token/staking-and-vesting-hero.md)
+  * [NFT Farming](user-guides/farming-usdhero-token/nft-farming.md)
 * [NFT](user-guides/buying-genesis-nft/README.md)
   * [NFT MarketPlace](user-guides/buying-genesis-nft/nft-marketplace.md)
   * [Genesis NFT](user-guides/buying-genesis-nft/genesis-nft.md)
-  * [Loot Box](user-guides/buying-genesis-nft/blind-box.md)
+  * [Blind Box](user-guides/buying-genesis-nft/blind-box.md)
 * [The Auction Game](user-guides/the-auction-game.md)
 * [The Fomo Game](user-guides/the-fomo-game/README.md)
+  * [Game Rules \(old\)](user-guides/the-fomo-game/game-rules-old.md)
   * [Reweight](user-guides/the-fomo-game/reweight.md)
 * [Referrals](user-guides/referrals.md)
-* [Verify On-Chain Data via PolygonScan](user-guides/verify-on-chain-data-via-polygonscan.md)
-* [How to get a free personal RPC](user-guides/how-to-get-a-free-personal-rpc.md)
 
 ## PROTOCOL
 
 * [Contract Address](protocol/contract-address.md)
 * [Tokens](protocol/tokens/README.md)
-  * [ZENY](protocol/tokens/zeny.md)
-  * [HONOR](protocol/tokens/honor.md)
-  * [HERO](protocol/tokens/bhero.md)
+  * [Hero](protocol/tokens/hero.md)
   * [KEY](protocol/tokens/key.md)
 * [NFT](protocol/nft.md)
 * [Guardians](protocol/guardians.md)
