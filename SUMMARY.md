@@ -1,11 +1,19 @@
 # Table of contents
 
 * [Overview](README.md)
-* [Timelock on Our Contracts](timelock-on-our-contracts.md)
-* [Our Effort Against Attack](our-effort-against-attack.md)
-* [Audits](audits.md)
-* [RoadMaps](roadmaps.md)
-* [Terms of Service](terms-of-service.md)
+
+## Network
+
+* [Polygon](https://polygon-docs.farmhero.io/)
+* [OkexChain](https://polygon-docs.farmhero.io/)
+
+## General
+
+* [Terms of Service](general/terms-of-service.md)
+* [RoadMaps](general/roadmaps.md)
+* [Audits](general/audits.md)
+* [Timelock on Our Contracts](general/timelock-on-our-contracts.md)
+* [Our Effort Against Attack](general/our-effort-against-attack.md)
 
 ## USER GUIDES
 
