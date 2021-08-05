@@ -11,7 +11,7 @@
 
 * [APR vs. APY](user-guides/apr-vs.-apy.md)
 * [BoardRoom](user-guides/boardroom.md)
-* [Farming $Hero Token](user-guides/farming-usdhero-token/README.md)
+* [Farming $Glory Token](user-guides/farming-usdhero-token/README.md)
   * [Yield Farming \(Vaults\)](user-guides/farming-usdhero-token/yield-farming.md)
   * [Staking and Vesting HERO](user-guides/farming-usdhero-token/staking-and-vesting-hero.md)
   * [NFT Farming](user-guides/farming-usdhero-token/nft-farming.md)
