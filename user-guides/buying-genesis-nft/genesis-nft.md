@@ -6,11 +6,33 @@ Users can buy genesis NFT using BNB. Currently we offer three genesis NFT.
 
 The NFT has to be deposited to NFT farm to earn $HERO. Users can withdraw anytime from NFT farm.
 
-| Genesis NFT Name | ID | Amount | Unique Property |
-| :--- | :--- | :--- | :--- |
-| Doggy to Moon | GE001 | 3000 | Earn 0.00088% of minted $Hero per block |
-| Doggy Farming Gold | GE002 | 7500 | Earn 0.000158% of minted $Hero per block |
-| Doggy Digging in Mine | GE003 | 7500 | Earn 0.000158% of minted $Hero per block |
+| Name | Amount | Unique Property |
+| :--- | :--- | :--- |
+| Hero Laser Eyes | 1000 | Genesis Hashrate: 1680 |
+| The Mechanician | 5000 | Genesis Hashrate: 660 |
+| Diamond Farmer | 10000 | Genesis Hashrate: 168 |
 
-If all genesis NFT are sold out and deposited to NFT farm, they will share 5.01% of the $Hero minted per block. Unsold, un-deposited genesis NFT will not share from the $Hero production and the rest of the unclaimed $Hero will stay in the contract for future burn.
+NFTs who have a Genesis Hash Rate can farm in our Genesis NFT Farms. The max emission of Glory of the Genesis Farm is 5%. 
+
+If you stake your NFTs \(which has a genesis hash rate\) to farm, you will earn
+
+```text
+Glory Earned = Sum (My NFTs' Genesis Hash Rate)/ Total Hash Rate of NFTs in Farm
+```
+
+The emission of Glory towards genesis NFT farms are based on total hash rate of the NFTs staking in the farm.
+
+| Total Hash Rate in Farm | Emission |
+| :--- | :--- |
+| &lt;1 million | 1% |
+| 1 million - 2 million | 2% |
+| 2 million - 3 million  | 2.5% |
+| 3 million - 4 million | 3% |
+| 4 million - 5 million | 3.5% |
+| 5 million - 6 million | 4.5% |
+| &gt;6 million | 5% |
+
+Genesis Hash Rate is a unique value, NFTs with such value will be able to farm in Genesis NFT farm. The NFTs who can own this value are limited to genesis series and some special editions of community NFTs.
+
+Unsold, un-deposited genesis NFT will not share from the $Glory production and the rest of the unclaimed $Glory will stay in the contract for future burn.
 
