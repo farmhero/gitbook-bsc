@@ -10,7 +10,6 @@
 ## General
 
 * [Terms of Service](general/terms-of-service.md)
-* [RoadMaps](general/roadmaps.md)
 * [Audits](general/audits.md)
 * [Timelock on Our Contracts](general/timelock-on-our-contracts.md)
 * [Our Effort Against Attack](general/our-effort-against-attack.md)
