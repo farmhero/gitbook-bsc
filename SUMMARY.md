@@ -27,7 +27,6 @@
 * [Tokens](protocol/tokens/README.md)
   * [Glory](protocol/tokens/hero.md)
 * [NFT](protocol/nft.md)
-* [Guardians](protocol/guardians.md)
 
 ---
 
