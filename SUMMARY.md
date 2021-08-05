@@ -4,8 +4,8 @@
 
 ## Network
 
-* [Polygon](https://polygon-docs.farmhero.io/)
-* [OkexChain](https://polygon-docs.farmhero.io/)
+* [Polygon Doc](https://polygon-docs.farmhero.io/)
+* [OkexChain Doc](https://farmhero.gitbook.io/oec/)
 
 ## General
 
