@@ -2,9 +2,9 @@
 
 Genesis NFTs have a unique property: it will earn a fixed portion of the $Hero total supply per block. This property is exclusive for genesis NFTs.
 
-Users can buy genesis NFT using BNB. Currently we offer three genesis NFT.
+Users can buy genesis NFT using OKT. Currently we offer three genesis NFT.
 
-The NFT has to be deposited to NFT farm to earn $HERO. Users can withdraw anytime from NFT farm.
+The NFT has to be deposited to NFT farm to earn $Glory. Users can withdraw anytime from NFT farm.
 
 | Name | Amount | Unique Property |
 | :--- | :--- | :--- |

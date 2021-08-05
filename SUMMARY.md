@@ -27,7 +27,3 @@
 * [Tokens](protocol/tokens/README.md)
   * [Glory](protocol/tokens/hero.md)
 
----
-
-* [Brand Assets](brand-assets.md)
-
