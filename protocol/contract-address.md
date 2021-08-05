@@ -1,5 +1,11 @@
 # Contract Address
 
+**PLEASE NOTE THIS SECTION HAS NOT BEEN UPDATED TO OEC VERSION.**
+
+\*\*\*\*
+
+
+
 | Usage | Contract Address |
 | :--- | :--- |
 | HeroCard \(NFT\) | 0xb82a20b4522680951f11c94c54b8800c1c237693 |
