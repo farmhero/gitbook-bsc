@@ -9,7 +9,9 @@ description: THE ALGO STABLECOIN
 1. HERO holders can stake HERO in boardroom to earn ZENNY inflation rewards.
 2. Stake ZENNY-BUSD LP in FarmHero Yield Farm to earn HERO.
 
-Please note on OEC,  HERO -&gt; GLORY, ZENNY -&gt; ZENI
+**Please note:**
+
+On OEC,  HERO -&gt; GLORY, ZENNY -&gt; ZENI
 
 On Polygon: HERO -&gt; HONOR, ZENNY -&gt; ZENY.
 
