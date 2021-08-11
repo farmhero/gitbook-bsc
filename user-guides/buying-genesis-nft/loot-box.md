@@ -14,7 +14,7 @@ How to Get Loot Box
 | ⭐⭐⭐⭐ | 12% | 5-10 | Loot Box | 4 |
 | ⭐⭐⭐⭐⭐ | 2.5% | 10-40 | Loot Box | 10 |
 | ⭐⭐⭐⭐⭐⭐ | 0.5% | 50-120 | Loot Box | 50 |
-| Special | - | 180-260 | Loot Box | 100 |
+| Special | - | 180-260 | Event | 100 |
 
 The daily production of the Loot Box NFT Farm depends on the total Hash Rate of all staked Loot Box NFTs.
 
