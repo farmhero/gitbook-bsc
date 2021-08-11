@@ -17,7 +17,7 @@
 * [NFT](user-guides/buying-genesis-nft/README.md)
   * [NFT MarketPlace](user-guides/buying-genesis-nft/nft-marketplace.md)
   * [Genesis NFT](user-guides/buying-genesis-nft/genesis-nft.md)
-  * [Blind Box](user-guides/buying-genesis-nft/blind-box.md)
+  * [Loot Box](user-guides/buying-genesis-nft/blind-box.md)
 * [Referrals](user-guides/referrals.md)
 
 ## PROTOCOL
