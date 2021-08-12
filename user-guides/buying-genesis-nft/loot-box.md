@@ -7,13 +7,13 @@ How to Get Loot Box
 
 
 
-| Rarity | Possibility  | Initial Hash Rate Range | How  | Total Supply | Burn for Voucher |
+| Rarity | Possibility  | Initial Hash Rate Range | How  | Supply Per Hero | Burn for Voucher |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | ⭐⭐ | 50% | 1-2 | Loot Box | ∞ | 1 |
 | ⭐⭐⭐ | 35% | 2-5 | Loot Box | ∞ | 2 |
 | ⭐⭐⭐⭐ | 12% | 5-10 | Loot Box | ∞ | 4 |
-| ⭐⭐⭐⭐⭐ | 2.5% | 10-40 | Loot Box | 1000 | 10 |
-| ⭐⭐⭐⭐⭐⭐ | 0.5% | 50-120 | Loot Box | 200 | 50 |
+| ⭐⭐⭐⭐⭐ | 2.5% | 10-40 | Loot Box | 250 | 10 |
+| ⭐⭐⭐⭐⭐⭐ | 0.5% | 50-120 | Loot Box | 50 | 50 |
 | Special | - | 180-260 | Event | 10 | 100 |
 
 The daily production of the Loot Box NFT Farm depends on the total Hash Rate of all staked Loot Box NFTs.
