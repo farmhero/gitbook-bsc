@@ -1,8 +1,12 @@
 # NFT Farming
 
-Users can deposit Hero NFT series to earn $Glory token. Currently, the FarmHero genesis NFT series are on sale. In the future, FarmHero team will develop more ways for users to get NFT.
+Users can deposit Hero NFT series to earn $Glory token. 
 
-To know more about the genesis NFT sale, please visit
+Check our Genesis NFT and our Loot Box!
 
 {% page-ref page="../buying-genesis-nft/genesis-nft.md" %}
+
+{% page-ref page="../buying-genesis-nft/loot-box.md" %}
+
+
 
