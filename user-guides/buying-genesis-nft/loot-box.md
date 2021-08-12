@@ -9,7 +9,7 @@ How to Get Loot Box
 
 | Rarity | Possibility  | Initial Hash Rate Range | How  | Total Supply | Burn for Voucher |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| ⭐⭐ | 50% | 1 | Loot Box | ∞ | 1 |
+| ⭐⭐ | 50% | 1-2 | Loot Box | ∞ | 1 |
 | ⭐⭐⭐ | 35% | 2-5 | Loot Box | ∞ | 2 |
 | ⭐⭐⭐⭐ | 12% | 5-10 | Loot Box | ∞ | 4 |
 | ⭐⭐⭐⭐⭐ | 2.5% | 10-40 | Loot Box | 1000 | 10 |
