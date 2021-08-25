@@ -16,9 +16,9 @@ Both the auction game and the fomo game are designed to burn $HERO token continu
 | :--- | :--- |
 | 30% | Reserved for Future NFT Farming |
 | 30% | Vault Farming |
-| 20% | Reserve for Ecosystem such as partnership and future incubation |
+| 23% | Reserve for Ecosystem such as partnership and future incubation |
 | 5% | Genesis NFT Farming |
-| 10% | Team |
+| 7% | Team |
 | 5% | Community Rewards such as bug bounty, marketing campaign, airdrops |
 
 Right now, as we are at genesis yield farming, most of the tokens produced each day \(60% around\) are locked. Please check our website for the current circulating amount of $Glory token. With the deflationary design the team expect the token supply would be stabled at 300 million - 400 million.

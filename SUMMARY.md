@@ -8,6 +8,8 @@
 
 ## USER GUIDES
 
+* [Play to Earn](user-guides/play-to-earn/README.md)
+  * [Fight Monsters](user-guides/play-to-earn/fight-monsters.md)
 * [APR vs. APY](user-guides/apr-vs.-apy.md)
 * [BoardRoom](user-guides/boardroom.md)
 * [Farming $Glory Token](user-guides/farming-usdhero-token/README.md)
