@@ -11,7 +11,7 @@
 * [Play to Earn](user-guides/play-to-earn/README.md)
   * [Merge Hero](user-guides/play-to-earn/merge-hero.md)
   * [Upgrade Hero](user-guides/play-to-earn/upgrade-hero.md)
-  * [Evovle Hero](user-guides/play-to-earn/evovle-hero.md)
+  * [Evolve Hero](user-guides/play-to-earn/evovle-hero.md)
   * [Fight Monsters](user-guides/play-to-earn/fight-monsters.md)
 * [APR vs. APY](user-guides/apr-vs.-apy.md)
 * [BoardRoom](user-guides/boardroom.md)
