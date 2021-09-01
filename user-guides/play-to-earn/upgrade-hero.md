@@ -26,7 +26,7 @@ You can **fight monsters** or **consume other Hero cards** you do not want to ge
 
 #### Max Level
 
-There is a max Level for Hero cards. upon reaching the max level, the Hero card has to be evovled to increase the max Level.
+There is a max Level for Hero cards. upon reaching the max level, the Hero card has to be evolved to increase the max Level.
 
 ### EXP Needed for Upgrade
 
