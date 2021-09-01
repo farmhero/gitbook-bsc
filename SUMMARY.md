@@ -9,6 +9,7 @@
 ## USER GUIDES
 
 * [Play to Earn](user-guides/play-to-earn/README.md)
+  * [Get Your Hero](user-guides/play-to-earn/get-your-hero.md)
   * [Merge Hero](user-guides/play-to-earn/merge-hero.md)
   * [Upgrade Hero](user-guides/play-to-earn/upgrade-hero.md)
   * [Evolve Hero](user-guides/play-to-earn/evovle-hero.md)
