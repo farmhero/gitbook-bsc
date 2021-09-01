@@ -10,10 +10,10 @@
 
 * [Play to Earn](user-guides/play-to-earn/README.md)
   * [Get Your Hero](user-guides/play-to-earn/get-your-hero.md)
+  * [Fight Monsters](user-guides/play-to-earn/fight-monsters.md)
   * [Merge Hero](user-guides/play-to-earn/merge-hero.md)
   * [Upgrade Hero](user-guides/play-to-earn/upgrade-hero.md)
   * [Evolve Hero](user-guides/play-to-earn/evovle-hero.md)
-  * [Fight Monsters](user-guides/play-to-earn/fight-monsters.md)
 * [APR vs. APY](user-guides/apr-vs.-apy.md)
 * [BoardRoom](user-guides/boardroom.md)
 * [Farming $Glory Token](user-guides/farming-usdhero-token/README.md)
