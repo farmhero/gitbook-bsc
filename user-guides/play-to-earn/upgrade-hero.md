@@ -14,7 +14,7 @@ Hashrate = (initial hash rate)*1.12^(LV-1)
 
 ### EXP
 
-You can fight monsters or consume other Hero cards you do not want to get the needed EXP towards next Level.
+You can **fight monsters** or **consume other Hero cards** you do not want to get the needed EXP towards next Level.
 
 | Rarity | EXP |
 | :--- | :--- |
