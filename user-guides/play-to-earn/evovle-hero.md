@@ -2,7 +2,7 @@
 
 #### Max Level
 
-There is a max Level for Hero cards. upon reaching the max level, the Hero card has to be evolved to **increase the max Level**. Currently, for each 3 level, the card need to be evovled. 
+There is a max Level for Hero cards. upon reaching the max level, the Hero card has to be evolved to **increase the max Level**. Currently, for each 3 level, the card need to be evolved. 
 
 ### Evolve Hero EXP
 
