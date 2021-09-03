@@ -16,6 +16,7 @@
 
 ## USER GUIDES
 
+* [PLAY TO EARN](user-guides/play-to-earn.md)
 * [APR vs. APY](user-guides/apr-vs.-apy.md)
 * [BoardRoom](user-guides/boardroom.md)
 * [Farming $Hero Token](user-guides/farming-usdhero-token/README.md)
