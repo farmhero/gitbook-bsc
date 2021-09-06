@@ -8,6 +8,12 @@
 
 ## USER GUIDES
 
+* [遊戲賺金!](user-guides/p2e/README.md)
+  * [得到您的第一個英雄！](user-guides/p2e/de-dao-nin-de-di-yi-ge-ying-xiong.md)
+  * [打怪物](user-guides/p2e/da-guai-wu.md)
+  * [合成英雄](user-guides/p2e/he-cheng-ying-xiong.md)
+  * [英雄升級](user-guides/p2e/ying-xiong-sheng-ji.md)
+  * [英雄進化](user-guides/p2e/ying-xiong-jin-hua.md)
 * [Play to Earn](user-guides/play-to-earn/README.md)
   * [Get Your Hero](user-guides/play-to-earn/get-your-hero.md)
   * [Fight Monsters](user-guides/play-to-earn/fight-monsters.md)
